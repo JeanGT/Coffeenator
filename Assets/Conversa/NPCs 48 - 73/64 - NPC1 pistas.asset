@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 64 - NPC1 pistas
+  m_EditorClassIdentifier: 
+  falas:
+  - "Se eu sei algo sobre os roubos de caf\xE9? Eu n\xE3o sei de nada, mas eu apostaria
+    minhas fichas nesses in\xFAteis que ficam nas ruas bebendo caf\xE9 o dia todo."
+  - "Mas se n\xE3o foram eles, agrade\xE7o ao ladr\xE3o, o cheiro da cidade pode at\xE9
+    estar ficando melhor!"
+  sprites:
+  - {fileID: 21300000, guid: e82c0b21738b2b84496ff3657a4250a6, type: 3}
+  - {fileID: 21300000, guid: e82c0b21738b2b84496ff3657a4250a6, type: 3}
+  nomes:
+  - Maria
+  - Maria
+  velocidade: 40
+  automatico: 0
+  progressoAoTerminar: -1
+  progressoMinimo: 8
+  progressoMaximo: 8
+  proximaConversa: {fileID: 0}
+  id: 64

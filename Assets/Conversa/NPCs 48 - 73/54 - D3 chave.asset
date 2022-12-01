@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 54 - D3 chave
+  m_EditorClassIdentifier: 
+  falas:
+  - "J\xE1 tentou ver se aquele cara de capuz todo misterioso tem essa tal chave?
+    Eu fui ver se ele tinha caf\xE9, mas aparente ele s\xF3 vende umas quinquilharias."
+  sprites:
+  - {fileID: 21300000, guid: 3d5e5634b8d542246a41c6eafb5b22cd, type: 3}
+  nomes:
+  - Achilles
+  velocidade: 40
+  automatico: 0
+  progressoAoTerminar: -1
+  progressoMinimo: 12
+  progressoMaximo: 17
+  proximaConversa: {fileID: 0}
+  id: 54

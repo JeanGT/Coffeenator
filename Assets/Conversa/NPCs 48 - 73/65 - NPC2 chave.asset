@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 65 - NPC2 chave
+  m_EditorClassIdentifier: 
+  falas:
+  - "Eu tenho todo tipo de chave comigo, do carro, da garagem, da empresa, de casa...
+    Mas essa que voc\xEA est\xE1 procurando n\xE3o."
+  - "Eu at\xE9 te ajudaria perguntando para esses viciados, mas prefiro manter dist\xE2ncia
+    deles."
+  sprites:
+  - {fileID: 21300000, guid: 483b30e9f27a6fd4fa47b6e7855f2ea1, type: 3}
+  - {fileID: 21300000, guid: 483b30e9f27a6fd4fa47b6e7855f2ea1, type: 3}
+  nomes:
+  - Eduardo
+  - Eduardo
+  velocidade: 40
+  automatico: 0
+  progressoAoTerminar: -1
+  progressoMinimo: 12
+  progressoMaximo: 17
+  proximaConversa: {fileID: 0}
+  id: 65

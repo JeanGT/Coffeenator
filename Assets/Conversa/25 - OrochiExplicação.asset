@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: "25 - OrochiExplica\xE7\xE3o"
+  m_EditorClassIdentifier: 
+  falas:
+  - "Hmmmm, muito bem, [Nickname], como esperado de voc\xEA. Eu ainda tenho receio
+    de te falar isso, mas j\xE1 havia prometido antes."
+  - "Acho que quem roubou o caf\xE9 foi o Caio, do Bar do Caio."
+  - "O Caio? N\xE3o \xE9 poss\xEDvel, mestre, ele \xE9 uma pessoa t\xE3o bondosa..."
+  - "Veja, nunca achou suspeito que ele \xE9 a \xFAnica pessoa que ainda vende caf\xE9
+    na cidade inteira?"
+  - "Eu sei que ele possui um armaz\xE9m cheio de caf\xE9, mas quando fui enfrent\xE1-lo,
+    acabei perdendo."
+  - "Por isso precisei ter certeza que voc\xEA poderia derrot\xE1-lo."
+  - "Ainda n\xE3o consigo acreditar. Ele me acolheu quando eu n\xE3o tinha um lugar
+    para ir, voc\xEA realmente tem certeza disso?"
+  - "Hmmm, acho que a gan\xE2ncia levou ele a querer um monop\xF3lio... N\xE3o entendo
+    suas motiva\xE7\xF5es."
+  - "N\xE3o acho que Caio faria algo assim tamb\xE9m, Nicole, mas se \xE9 o Orochi
+    falando, ent\xE3o deve ser verdade."
+  - "Eu posso ter perdido a luta, mas peguei uma das chaves do armaz\xE9m."
+  - "Ela agora \xE9 sua, mas ainda h\xE1 mais duas para achar. Boa sorte, [Nickname],
+    tenho certeza que conseguir\xE1 encerrar esse caso."
+  sprites:
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: a39800816f3b9a847a92604ecfbd74bc, type: 3}
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: 57477e0e7a03a424499e9fc86c2d256f, type: 3}
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: 1245a8f067be7694dafd5f1e33d46c11, type: 3}
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  nomes:
+  - Orochi
+  - Orochi
+  - '[Nickname]'
+  - Orochi
+  - Orochi
+  - Orochi
+  - Nicole
+  - Orochi
+  - '[Nickname]'
+  - Orochi
+  - Orochi
+  velocidade: 40
+  voltaProgresso: 0
+  automatico: 1
+  progressoAoTerminar: 12
+  progressoMinimo: 11
+  progressoMaximo: 11
+  proximaConversa: {fileID: 0}
+  id: 25

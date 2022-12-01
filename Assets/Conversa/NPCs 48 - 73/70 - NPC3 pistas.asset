@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 70 - NPC3 pistas
+  m_EditorClassIdentifier: 
+  falas:
+  - "Procurando por pistas do roubo? Eu n\xE3o gostei que roubaram o caf\xE9 porque
+    tira a liberdade de escolha das pessoas."
+  - "S\xF3 que como n\xE3o me afeta de forma alguma, n\xE3o percebi nada de diferente."
+  sprites:
+  - {fileID: 21300000, guid: 005cb1989e7ece944b6e32ce496248fb, type: 3}
+  - {fileID: 21300000, guid: 005cb1989e7ece944b6e32ce496248fb, type: 3}
+  nomes:
+  - Felipe
+  - Felipe
+  velocidade: 40
+  automatico: 0
+  progressoAoTerminar: -1
+  progressoMinimo: 8
+  progressoMaximo: 8
+  proximaConversa: {fileID: 0}
+  id: 70

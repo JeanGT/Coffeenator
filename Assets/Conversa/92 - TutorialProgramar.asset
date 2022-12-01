@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 92 - TutorialProgramar
+  m_EditorClassIdentifier: 
+  falas:
+  - "Esse \xE9 o meu computador, onde eu estudo e posso realizar trabalhos."
+  - "Como nada acontece nessa cidade, acaba que essa \xE9 a \xFAnica maneira de um
+    detetive conseguir um dinheiro."
+  - "A FLancer \xE9 o site que eu recebo e resolvo problemas para as pessoas."
+  - "\xC9 bem simples, eu posso deixar at\xE9 3 bugs passarem pela tela, e eu tento
+    impedir eles usando meu teclado."
+  - Para vencer, eu mantenho o dedo pressionado na tela e arrasto, mirando nos bugs.
+  - Se eu derrotar eles, ganho o dinheiro indicado pelo site.
+  - "Na outra aba, h\xE1 a Amas.on, onde compro alguns estudos para conseguir resolver
+    problemas mais dif\xEDceis."
+  sprites:
+  - {fileID: -1984035073591318243, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: -1984035073591318243, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: -1984035073591318243, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: -1984035073591318243, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: -1984035073591318243, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: -1984035073591318243, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: -1984035073591318243, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  nomes:
+  - '[Nickname]'
+  - '[Nickname]'
+  - '[Nickname]'
+  - '[Nickname]'
+  - '[Nickname]'
+  - '[Nickname]'
+  - '[Nickname]'
+  velocidade: 40
+  voltaProgresso: 0
+  automatico: 1
+  progressoAoTerminar: -1
+  progressoMinimo: -1
+  progressoMaximo: -1
+  proximaConversa: {fileID: 0}
+  id: 92

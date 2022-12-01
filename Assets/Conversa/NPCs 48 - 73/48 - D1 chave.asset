@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 48 - D1 chave
+  m_EditorClassIdentifier: 
+  falas:
+  - "Uma chave? Eu j\xE1 vi uma chave jogada em algum lugar da cidade, mas n\xE3o
+    tenho certeza onde."
+  sprites:
+  - {fileID: 21300000, guid: c67b280838dacc9418ac4ed1e05f013b, type: 3}
+  nomes:
+  - "Vin\xEDcius"
+  velocidade: 40
+  automatico: 0
+  progressoAoTerminar: -1
+  progressoMinimo: 12
+  progressoMaximo: 17
+  proximaConversa: {fileID: 0}
+  id: 48

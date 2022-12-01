@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 95 - CutsceneCaio2
+  m_EditorClassIdentifier: 
+  falas:
+  - "Que barulheira \xE9 essa? N\xE3o sabem que horas s\xE3o?"
+  sprites:
+  - {fileID: 21300000, guid: b67f2c9337f65114c8418e50b90e450f, type: 3}
+  nomes:
+  - Guilherme
+  velocidade: 40
+  voltaProgresso: 0
+  automatico: 1
+  progressoAoTerminar: 202
+  progressoMinimo: 201
+  progressoMaximo: 201
+  proximaConversa: {fileID: 0}
+  id: 0

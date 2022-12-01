@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 105 - CutsceneOrochi3
+  m_EditorClassIdentifier: 
+  falas:
+  - "Mestre Orochi? O que \xE9 tudo isso? O que est\xE1 acontecendo?"
+  - "\xC9 como voc\xEA v\xEA, caro detetive. Eu sou o verdadeiro ladr\xE3o de caf\xE9!"
+  - Mas... Por que mestre? Por que faria isso?
+  - "Voc\xEA n\xE3o entenderia, [Nickname]. Esse caf\xE9 todo, para pessoas como
+    eu, \xE9 dif\xEDcil resistir... Ainda mais depois de ver aquele armaz\xE9m cheio."
+  - "O Caio, aquele... maldito, esbanjava todo aquele caf\xE9. Mesmo depois de treinar
+    tanto, nunca consegui tirar nada dele. Estava ficando louco."
+  - "Mas desde que voc\xEA chegou, detetive, tudo mudou. Era algu\xE9m jovem, capaz...
+    perfeito para o trabalho."
+  - "Voc\xEA... voc\xEA incriminou ele!"
+  - "Eu? N\xE3o seja bobo. \"Voc\xEA\" incriminou ele."
+  - Eu... O que foi que eu fiz?...
+  - "N\xE3o se preocupe, detetive, o que voc\xEA fez com ele n\xE3o \xE9 nada comparado
+    com o que eu vou fazer com voc\xEA!"
+  sprites:
+  - {fileID: 21300000, guid: 204f8f4b74f12484baffbf1799038934, type: 3}
+  - {fileID: 21300000, guid: c67eb150e6dde8741b0be61446e46bd4, type: 3}
+  - {fileID: 21300000, guid: 1245a8f067be7694dafd5f1e33d46c11, type: 3}
+  - {fileID: 21300000, guid: c67eb150e6dde8741b0be61446e46bd4, type: 3}
+  - {fileID: 21300000, guid: ee9895e5df68fd44aa78a553639a98ba, type: 3}
+  - {fileID: 21300000, guid: c67eb150e6dde8741b0be61446e46bd4, type: 3}
+  - {fileID: 21300000, guid: 0226a26aca194b84c850fb34a11078c9, type: 3}
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: 1245a8f067be7694dafd5f1e33d46c11, type: 3}
+  - {fileID: 21300000, guid: bbefaed970df7ea44b351d8872047f78, type: 3}
+  nomes:
+  - '[Nickname]'
+  - Orochi
+  - '[Nickname]'
+  - Orochi
+  - Orochi
+  - Orochi
+  - '[Nickname]'
+  - Orochi
+  - '[Nickname]'
+  - Orochi
+  velocidade: 40
+  voltaProgresso: 0
+  automatico: 1
+  progressoAoTerminar: 304
+  progressoMinimo: 303
+  progressoMaximo: 303
+  proximaConversa: {fileID: 0}
+  id: 0

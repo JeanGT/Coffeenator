@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 10 - Nicole aboradando
+  m_EditorClassIdentifier: 
+  falas:
+  - "Ent\xE3o parece que acabaram seus treinos por hoje, n\xE3o \xE9 mesmo, detetive?"
+  - ...
+  - "Dessa vez, voc\xEA pode pelo menos ouvir a minha proposta?"
+  - "Olhe, eu estou realmente ocupado, ent\xE3o seja breve."
+  - "Eu sou Nicole, eu fa\xE7o a venda do caf\xE9 do porto para as lojas."
+  - "Desde que come\xE7aram os roubos, eu n\xE3o ganho praticamente nada."
+  - "Caio est\xE1 me deixando ficar no bar, mas preciso de meu emprego de volta."
+  - "Estou totalmente disposta a te ajudar da maneira que for necess\xE1ria! Como
+    eu j\xE1 disse, minha vida depende disso!"
+  - "Se aceitar minha proposta, eu posso te curar caso voc\xEA se meta em uma briga.
+    Ah, e voc\xEA tamb\xE9m ganha minha gratid\xE3o."
+  - "Eu tinha dito para voc\xEA ser breve..."
+  - "Mas tudo bem. A proposta \xE9 realmente boa, posso acabar precisando de uma
+    ajuda. Eu aceito."
+  - "Muito obrigada, detetive [Nickname]! Juro que n\xE3o vai se arrepender!"
+  - "Espero que n\xE3o..."
+  - "Ainda tenho que te contar alguns detalhes da investiga\xE7\xE3o, mas eu te explico
+    no caminho."
+  sprites:
+  - {fileID: 21300000, guid: 0e2c599e95eccc449a5632159913ea1f, type: 3}
+  - {fileID: 21300000, guid: ba4ad9a5c0627234cb926e5c012f5f36, type: 3}
+  - {fileID: 21300000, guid: b7ee7119d801f1c44ab3fee23ca9f28b, type: 3}
+  - {fileID: -1984035073591318243, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: 0e2c599e95eccc449a5632159913ea1f, type: 3}
+  - {fileID: 21300000, guid: b7ee7119d801f1c44ab3fee23ca9f28b, type: 3}
+  - {fileID: -7219589563213425449, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: -7219589563213425449, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: 0e2c599e95eccc449a5632159913ea1f, type: 3}
+  - {fileID: -1984035073591318243, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: 55f2cd6d426c8744699635c9a2da5bc2, type: 3}
+  - {fileID: 21300000, guid: 0e2c599e95eccc449a5632159913ea1f, type: 3}
+  - {fileID: 21300000, guid: ba4ad9a5c0627234cb926e5c012f5f36, type: 3}
+  - {fileID: -1984035073591318243, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  nomes:
+  - ???
+  - '[Nickname]'
+  - ???
+  - '[Nickname]'
+  - Nicole
+  - Nicole
+  - Nicole
+  - Nicole
+  - Nicole
+  - '[Nickname]'
+  - '[Nickname]'
+  - Nicole
+  - '[Nickname]'
+  - '[Nickname]'
+  velocidade: 40
+  voltaProgresso: 0
+  automatico: 1
+  progressoAoTerminar: -1
+  progressoMinimo: 8
+  progressoMaximo: -1
+  proximaConversa: {fileID: 0}
+  id: 10

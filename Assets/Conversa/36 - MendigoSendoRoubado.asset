@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 36 - MendigoSendoRoubado
+  m_EditorClassIdentifier: 
+  falas:
+  - "N\xF3s n\xE3o dissemos para voc\xEA ficar de olho, Alex?"
+  - "N\xE3o \xE9 poss\xEDvel! Como ele chegou aqui?? Ele s\xF3 pode ser um mestre
+    da t\xE9cnica de oculta\xE7\xE3o."
+  - "Ele deve ser at\xE9 mesmo melhor que voc\xEA, Nicole."
+  - "N\xE3o acredito nisso... N\xE3o dev\xEDamos ter confiado nele. "
+  - "Voc\xEAs est\xE3o me roubando? Que absurdo!"
+  - "Eu n\xE3o vou deixar que saiam impunes, ou meu nome n\xE3o \xE9 Marcus!"
+  sprites:
+  - {fileID: 21300000, guid: a39800816f3b9a847a92604ecfbd74bc, type: 3}
+  - {fileID: 21300000, guid: 1bc1b6f5f49db8f4788d407bc8b9e1ef, type: 3}
+  - {fileID: 21300000, guid: 1bc1b6f5f49db8f4788d407bc8b9e1ef, type: 3}
+  - {fileID: 21300000, guid: 3a1f4948a1673cf459123f5ab0d12e27, type: 3}
+  - {fileID: -7279159545160528996, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: -7279159545160528996, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  nomes:
+  - '[Nickname]'
+  - Alex
+  - Alex
+  - Nicole
+  - Marcus
+  - Marcus
+  velocidade: 40
+  voltaProgresso: 0
+  automatico: 1
+  progressoAoTerminar: -1
+  progressoMinimo: 13
+  progressoMaximo: -1
+  proximaConversa: {fileID: 0}
+  id: 36

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 62 - NPC1 chave
+  m_EditorClassIdentifier: 
+  falas:
+  - "Voc\xEA t\xE1 procurando uma chave? Com certeza um desses in\xFAteis deve ter
+    pego."
+  - "Sabe como \xE9, de onde voc\xEA acha que eles arranjam dinheiro se n\xE3o t\xEAm
+    emprego?"
+  sprites:
+  - {fileID: 21300000, guid: e82c0b21738b2b84496ff3657a4250a6, type: 3}
+  - {fileID: 21300000, guid: e82c0b21738b2b84496ff3657a4250a6, type: 3}
+  nomes:
+  - Maria
+  - Maria
+  velocidade: 40
+  automatico: 0
+  progressoAoTerminar: -1
+  progressoMinimo: 12
+  progressoMaximo: 17
+  proximaConversa: {fileID: 0}
+  id: 62

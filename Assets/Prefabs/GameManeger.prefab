@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1606513054375654
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4619215014445426}
+  - component: {fileID: 4235426025749463785}
+  m_Layer: 0
+  m_Name: GameManeger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4619215014445426
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1606513054375654}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4235426025749463785
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1606513054375654}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ec3fcf634c70af4d8a5066c02f95d3e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vozes:
+  - {fileID: 8300000, guid: 03dbf04fdf70b7544bbfbc025983f3eb, type: 3}
+  - {fileID: 8300000, guid: ff901dd7a57fb0349bf9428c0c1ccce7, type: 3}
+  - {fileID: 8300000, guid: 1b31e987c17b7bc43bb104f1a0b55a6e, type: 3}
+  - {fileID: 8300000, guid: 8006b09684681914281e9bf406aa0435, type: 3}
+  - {fileID: 8300000, guid: 84e7e3ee400351c47a6ec5843f2ba630, type: 3}
+  - {fileID: 8300000, guid: 1b31e987c17b7bc43bb104f1a0b55a6e, type: 3}
+  - {fileID: 8300000, guid: c5585c80774f4de418e15262579f3b70, type: 3}
+  - {fileID: 8300000, guid: 491c95ec58037df499c832703e039204, type: 3}
+  - {fileID: 8300000, guid: 8b6c2692864de3447ab8201cbc6b813a, type: 3}
+  - {fileID: 8300000, guid: e2a8177500c5f794680211cfb193839b, type: 3}
+  - {fileID: 8300000, guid: eb69cfc5f7f38f24da40a48d84774068, type: 3}
+  - {fileID: 8300000, guid: 4c7b634406c98d24391d11062f2fbfda, type: 3}
+  - {fileID: 8300000, guid: fc384c945b70da44f82e08604b448417, type: 3}
+  - {fileID: 8300000, guid: 8836fa6070321c643ac9336e737096e2, type: 3}
+  - {fileID: 8300000, guid: e04c178ed4ee29145b1990699b20d76a, type: 3}
+  - {fileID: 8300000, guid: 9a92658a3e54b4f4ca2731233a58ecaa, type: 3}
+  - {fileID: 8300000, guid: dd7f0319645e38c44a971feb182df653, type: 3}
+  - {fileID: 8300000, guid: 6558e56a40b39de43b3b74555002056d, type: 3}
+  - {fileID: 8300000, guid: 6f5a897242f5e5747aec6901275023ff, type: 3}
+  - {fileID: 8300000, guid: fc384c945b70da44f82e08604b448417, type: 3}
+  - {fileID: 8300000, guid: f199db3e1ee117b41a084ccdf12e8e21, type: 3}
+  - {fileID: 8300000, guid: fc384c945b70da44f82e08604b448417, type: 3}
+  - {fileID: 8300000, guid: 1bf27a6b513bf1449a920897a6d7d05b, type: 3}
+  - {fileID: 8300000, guid: fc384c945b70da44f82e08604b448417, type: 3}
+  - {fileID: 8300000, guid: 5bcc7424fb363594fb8e3b6d19da34d2, type: 3}
+  - {fileID: 8300000, guid: 7b390a10bfdcc6047a103483e2419221, type: 3}
+  nomes:
+  - '[Nickname]'
+  - Alex
+  - Nicole
+  - Liz
+  - Caio
+  - ???
+  - Orochi
+  - Mestre Lucca
+  - Mestre Jean
+  - Epaminondas
+  - Marcus
+  - Maria
+  - Eduardo
+  - Felipe
+  - Carla
+  - "Vin\xEDcius"
+  - Lucas
+  - Achilles
+  - Beatriz
+  - Bob
+  - Bilhete
+  - Guilherme
+  - Edison
+  - Switch
+  - Celular
+  - Priscila
+  vidaStep: 0.6
+  velocidadeAtaqueStep: 0.6
+  velocidadeMovimentoStep: 0.4
+  danoStep: 0.4
+  coracao: {fileID: 21300000, guid: f594aa38fc6bf1645998a99704b923bf, type: 3}
+  coracaoApagado: {fileID: 21300000, guid: e851a00abc9dc1c44983157461cabdbd, type: 3}
+  shurikenVermelha: {fileID: 21300000, guid: 7a12bdceb8cbf854d8c68be5321e2f7b, type: 3}
+  shurikenCinza: {fileID: 21300000, guid: 4418385b78350f24a9be8c3486124fd2, type: 3}
+  bolaDesativada: {fileID: 21300000, guid: 000c8250f125cf14ab17d7064284852c, type: 3}
+  bolaAtivada: {fileID: 21300000, guid: b4ab261a24295bd4382d82fa6db1454c, type: 3}
+  isIntroducao: 0
+  fight: {fileID: 3704449910664580515, guid: 7ea9197936963344f909e721719b527b, type: 3}
+  debugInitialProgress: 0

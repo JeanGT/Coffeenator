@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 33 - EpaminondasRecusando
+  m_EditorClassIdentifier: 
+  falas:
+  - "O que voc\xEAs querem, jovens?"
+  - Senhor, me desculpe, mas eu preciso urgentemente falar com a minha esposa.
+  - "Voc\xEA poderia, por favor, me passar a senha do wi-fi?"
+  - "Por que voc\xEA n\xE3o liga pra ela?"
+  - "Meu celular n\xE3o tem sinal aqui..."
+  - O meu tem, toma aqui!
+  - "N\xE3o, senhor, apenas me passe a senha do wi-fi!"
+  - "Se n\xE3o vai aceitar minha gentileza apenas saia daqui! O wi-fi \xE9 apenas
+    para os h\xF3spedes!"
+  - "O que vamos fazer? Essa era a \xFAnica forma..."
+  - "Por que voc\xEA n\xE3o tenta hackear o hotel? Voc\xEA praticamente trabalha
+    com isso. "
+  - "Voc\xEA n\xE3o ouviu o que o Bob disse? \xC9 imposs\xEDvel."
+  - "Se for ajudar, voc\xEA pode usar o meu celular. Ele \xE9 de \xFAltima gera\xE7\xE3o,
+    com o -Firewall- mais potente da categoria!"
+  - "Os fabricantes garantem que nem mesmo -3 bugs- s\xE3o p\xE1reos para ele!"
+  - Acho que vale a pena tentar.
+  - "Voc\xEAs ainda est\xE3o aqui?! Se n\xE3o v\xE3o alugar um quarto, parem de incomodar
+    os h\xF3spedes!"
+  sprites:
+  - {fileID: 21300000, guid: 0947078f5a2b53346921be4b09c70486, type: 3}
+  - {fileID: 21300000, guid: 204f8f4b74f12484baffbf1799038934, type: 3}
+  - {fileID: 21300000, guid: 204f8f4b74f12484baffbf1799038934, type: 3}
+  - {fileID: 21300000, guid: 0947078f5a2b53346921be4b09c70486, type: 3}
+  - {fileID: 21300000, guid: ba4ad9a5c0627234cb926e5c012f5f36, type: 3}
+  - {fileID: 21300000, guid: 0947078f5a2b53346921be4b09c70486, type: 3}
+  - {fileID: 21300000, guid: a39800816f3b9a847a92604ecfbd74bc, type: 3}
+  - {fileID: 21300000, guid: 5974701f39e025b4391b44c2f2bfbbc1, type: 3}
+  - {fileID: 21300000, guid: 1245a8f067be7694dafd5f1e33d46c11, type: 3}
+  - {fileID: 3170774882134695571, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: 1245a8f067be7694dafd5f1e33d46c11, type: 3}
+  - {fileID: 21300000, guid: 57477e0e7a03a424499e9fc86c2d256f, type: 3}
+  - {fileID: 21300000, guid: 0e2c599e95eccc449a5632159913ea1f, type: 3}
+  - {fileID: -1984035073591318243, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: 5974701f39e025b4391b44c2f2bfbbc1, type: 3}
+  nomes:
+  - Epaminondas
+  - '[Nickname]'
+  - '[Nickname]'
+  - Epaminondas
+  - '[Nickname]'
+  - Epaminondas
+  - '[Nickname]'
+  - Epaminondas
+  - '[Nickname]'
+  - Alex
+  - '[Nickname]'
+  - Nicole
+  - Nicole
+  - '[Nickname]'
+  - Epaminondas
+  velocidade: 40
+  voltaProgresso: 0
+  automatico: 0
+  progressoAoTerminar: 15
+  progressoMinimo: 14
+  progressoMaximo: 14
+  proximaConversa: {fileID: 0}
+  id: 33

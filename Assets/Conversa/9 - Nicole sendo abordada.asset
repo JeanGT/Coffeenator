@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 9 - Nicole sendo abordada
+  m_EditorClassIdentifier: 
+  falas:
+  - "Ei, voc\xEA, voc\xEA disse que queria me ajudar. Por acaso sabe de algo?"
+  - "Ent\xE3o parece que voc\xEA agora quer resolver o caso do caf\xE9, certo?"
+  - "Deixe-me ajud\xE1-lo, eu posso te curar caso voc\xEA se meta em uma briga. Como
+    eu j\xE1 disse, minha vida depende disso!"
+  - "N\xE3o vou negar a ajuda, claro, mas quem \xE9 voc\xEA mesmo?"
+  - "Ah sim, onde est\xE3o meus modos?"
+  - "Eu sou Nicole, eu fa\xE7o a venda do caf\xE9 do porto para as lojas."
+  - "Desde que come\xE7aram os roubos, eu n\xE3o ganho praticamente nada."
+  - "Caio est\xE1 me deixando ficar no bar, mas preciso de meu emprego de volta."
+  - "Prazer, Nicole, imagino que j\xE1 me conhe\xE7a... Ent\xE3o vou pular minha
+    apresenta\xE7\xE3o e ir direto ao assunto."
+  - "A situa\xE7\xE3o \xE9 a seguinte: o desaparecimento do caf\xE9 est\xE1 relacionado
+    com o sequestro da minha fam\xEDlia."
+  - "Sua fam\xEDlia foi sequestrada? O que isso tem a ver com o caso do caf\xE9?"
+  - "Longa hist\xF3ria... Eu te conto no caminho, se \xE9 que voc\xEA vai mesmo me
+    ajudar."
+  - "Ah, claro que vou! Ent\xE3o, n\xE3o temos tempo a perder."
+  - "Acho que seria bom investigar essas pessoas que est\xE3o na rua, n\xE3o acha?
+    Eles podem saber de algo."
+  sprites:
+  - {fileID: 21300000, guid: 1245a8f067be7694dafd5f1e33d46c11, type: 3}
+  - {fileID: -7219589563213425449, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: 0e2c599e95eccc449a5632159913ea1f, type: 3}
+  - {fileID: 21300000, guid: ba4ad9a5c0627234cb926e5c012f5f36, type: 3}
+  - {fileID: 21300000, guid: 57477e0e7a03a424499e9fc86c2d256f, type: 3}
+  - {fileID: 21300000, guid: 0e2c599e95eccc449a5632159913ea1f, type: 3}
+  - {fileID: 21300000, guid: b7ee7119d801f1c44ab3fee23ca9f28b, type: 3}
+  - {fileID: 21300000, guid: b7ee7119d801f1c44ab3fee23ca9f28b, type: 3}
+  - {fileID: 21300000, guid: 55f2cd6d426c8744699635c9a2da5bc2, type: 3}
+  - {fileID: 21300000, guid: 1245a8f067be7694dafd5f1e33d46c11, type: 3}
+  - {fileID: 21300000, guid: 57477e0e7a03a424499e9fc86c2d256f, type: 3}
+  - {fileID: -1984035073591318243, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: 0e2c599e95eccc449a5632159913ea1f, type: 3}
+  - {fileID: -7219589563213425449, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  nomes:
+  - '[Nickname]'
+  - ???
+  - ???
+  - '[Nickname]'
+  - Nicole
+  - Nicole
+  - Nicole
+  - Nicole
+  - '[Nickname]'
+  - '[Nickname]'
+  - Nicole
+  - '[Nickname]'
+  - Nicole
+  - Nicole
+  velocidade: 40
+  voltaProgresso: 0
+  automatico: 0
+  progressoAoTerminar: -1
+  progressoMinimo: 8
+  progressoMaximo: -1
+  proximaConversa: {fileID: 0}
+  id: 9

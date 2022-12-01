@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 106 - CutsceneOrochi4
+  m_EditorClassIdentifier: 
+  falas:
+  - ...
+  - Prepare-se!
+  sprites:
+  - {fileID: 21300000, guid: a39800816f3b9a847a92604ecfbd74bc, type: 3}
+  - {fileID: 21300000, guid: ee9895e5df68fd44aa78a553639a98ba, type: 3}
+  nomes:
+  - '[Nickname]'
+  - Orochi
+  velocidade: 10
+  voltaProgresso: 1
+  automatico: 1
+  progressoAoTerminar: 26
+  progressoMinimo: 306
+  progressoMaximo: 306
+  proximaConversa: {fileID: 0}
+  id: 0

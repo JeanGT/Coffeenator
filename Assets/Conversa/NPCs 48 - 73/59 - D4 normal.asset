@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 59 - D4 normal
+  m_EditorClassIdentifier: 
+  falas:
+  - "Eu at\xE9 tenho um trabalho, mas \xE9 algo mais informal, tenho bastante medo
+    que me descartem... Por que sabe, eu uso caf\xE9."
+  - "Oh n\xE3o, o que foi que eu acabei de dizer? Deve ser o estresse... Por favor,
+    n\xE3o conte para ningu\xE9m, eu te imploro!"
+  sprites:
+  - {fileID: 21300000, guid: 5e2af0473849d984eb1654b941afe91a, type: 3}
+  - {fileID: 21300000, guid: 5e2af0473849d984eb1654b941afe91a, type: 3}
+  nomes:
+  - Beatriz
+  - Beatriz
+  velocidade: 40
+  automatico: 0
+  progressoAoTerminar: -1
+  progressoMinimo: -1
+  progressoMaximo: -1
+  proximaConversa: {fileID: 11400000, guid: 2fede53f963998d4e8f08ac3aaa66292, type: 2}
+  id: 59

@@ -1,0 +1,4 @@
+repository "O JOGO@TGRoom@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 82 - Orochi antes do sequestro
+  m_EditorClassIdentifier: 
+  falas:
+  - Desculpe, exagerei.
+  sprites:
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  nomes:
+  - Orochi
+  velocidade: 40
+  automatico: 0
+  progressoAoTerminar: -1
+  progressoMinimo: 6
+  progressoMaximo: 6
+  proximaConversa: {fileID: 0}
+  id: 82

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 11 - Orochi interrogar
+  m_EditorClassIdentifier: 
+  falas:
+  - "Mestre Orochi, estou buscando pistas sobre o caso de roubo de caf\xE9. \xC9
+    para algo muito importante, voc\xEA sabe de algo? "
+  - "Eu posso ter alguma ideia, mas infelizmente n\xE3o posso te falar, detetive."
+  - "Por favor, mestre, \xE9 a vida da minha fam\xEDlia que est\xE1 em perigo!"
+  - "Me desculpe, [Nickname], mas te contar essa informa\xE7\xE3o colocaria a nossa
+    vida em perigo. H\xE1 apenas um jeito de que eu possa te contar."
+  - "Derrote todos os mestres nesse dojo. \xC9 um requisito crucial para conseguir
+    a informa\xE7\xE3o que tenho."
+  - "S\xF3 pode estar brincando... N\xE3o tenho tempo para isso."
+  - "Apenas confie em mim. Voc\xEA entender\xE1 no futuro..."
+  - ...
+  sprites:
+  - {fileID: 21300000, guid: a39800816f3b9a847a92604ecfbd74bc, type: 3}
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: ba4ad9a5c0627234cb926e5c012f5f36, type: 3}
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: 0226a26aca194b84c850fb34a11078c9, type: 3}
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: ba4ad9a5c0627234cb926e5c012f5f36, type: 3}
+  nomes:
+  - '[Nickname]'
+  - Orochi
+  - '[Nickname]'
+  - Orochi
+  - Orochi
+  - '[Nickname]'
+  - Orochi
+  - '[Nickname]'
+  velocidade: 40
+  voltaProgresso: 0
+  automatico: 0
+  progressoAoTerminar: 9
+  progressoMinimo: 8
+  progressoMaximo: 8
+  proximaConversa: {fileID: 0}
+  id: 11

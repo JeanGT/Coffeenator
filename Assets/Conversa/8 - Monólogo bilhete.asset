@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: "8 - Mon\xF3logo bilhete"
+  m_EditorClassIdentifier: 
+  falas:
+  - "[Nickname], parece que voc\xEA se recusa a resolver o caso do caf\xE9, n\xE3o
+    \xE9 mesmo?"
+  - "Parece que preciso te dar uma raz\xE3o para investigar!"
+  - "Tomei a liberdade de prender sua fam\xEDlia, espero que n\xE3o se importe..."
+  - Mas se quiser ela de volta, acho melhor resolver esse caso.
+  - "Nem pense em tentar me achar, pois eu n\xE3o garanto a seguran\xE7a de seus
+    entes queridos caso o fa\xE7a! "
+  - Assinado, sequestrador.
+  - "Oh n\xE3o, como isso foi acontecer? Ser\xE1 que um desses viciados ficou louco?"
+  - "Parece que n\xE3o tenho escolha, agora \xE9 quest\xE3o de vida ou morte!"
+  sprites:
+  - {fileID: 21300000, guid: e1afdef2bc72c4b479848bdb62eac9d7, type: 3}
+  - {fileID: 21300000, guid: e1afdef2bc72c4b479848bdb62eac9d7, type: 3}
+  - {fileID: 21300000, guid: e1afdef2bc72c4b479848bdb62eac9d7, type: 3}
+  - {fileID: 21300000, guid: e1afdef2bc72c4b479848bdb62eac9d7, type: 3}
+  - {fileID: 21300000, guid: e1afdef2bc72c4b479848bdb62eac9d7, type: 3}
+  - {fileID: 21300000, guid: e1afdef2bc72c4b479848bdb62eac9d7, type: 3}
+  - {fileID: 21300000, guid: a39800816f3b9a847a92604ecfbd74bc, type: 3}
+  - {fileID: 21300000, guid: 1245a8f067be7694dafd5f1e33d46c11, type: 3}
+  nomes:
+  - Bilhete
+  - Bilhete
+  - Bilhete
+  - Bilhete
+  - Bilhete
+  - Bilhete
+  - '[Nickname]'
+  - '[Nickname]'
+  velocidade: 40
+  voltaProgresso: 0
+  automatico: 1
+  progressoAoTerminar: 8
+  progressoMinimo: 6
+  progressoMaximo: 6
+  proximaConversa: {fileID: 0}
+  id: 8

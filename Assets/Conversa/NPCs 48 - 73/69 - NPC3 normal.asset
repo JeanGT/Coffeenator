@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 69 - NPC3 normal
+  m_EditorClassIdentifier: 
+  falas:
+  - "Eu, particularmente, n\xE3o beberia caf\xE9. Mas acredito que cada um toma as
+    pr\xF3prias decis\xF5es na vida e arca com as consequ\xEAncias delas."
+  sprites:
+  - {fileID: 21300000, guid: 005cb1989e7ece944b6e32ce496248fb, type: 3}
+  nomes:
+  - Felipe
+  velocidade: 40
+  automatico: 0
+  progressoAoTerminar: -1
+  progressoMinimo: -1
+  progressoMaximo: -1
+  proximaConversa: {fileID: 0}
+  id: 69

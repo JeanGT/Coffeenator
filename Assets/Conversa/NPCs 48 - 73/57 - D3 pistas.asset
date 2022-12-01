@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 57 - D3 pistas
+  m_EditorClassIdentifier: 
+  falas:
+  - "N\xE3o sei nada sobre o roubo, mas n\xE3o sei o que eu vou fazer se continuarem
+    roubando, estou desesperado."
+  - "Depois que o caf\xE9 desapareceu eu at\xE9 tentei pedir ajuda no hospital, mas
+    n\xE3o me deixaram passar da porta."
+  sprites:
+  - {fileID: 21300000, guid: 3d5e5634b8d542246a41c6eafb5b22cd, type: 3}
+  - {fileID: 21300000, guid: 3d5e5634b8d542246a41c6eafb5b22cd, type: 3}
+  nomes:
+  - Achilles
+  - Achilles
+  velocidade: 40
+  automatico: 0
+  progressoAoTerminar: -1
+  progressoMinimo: 8
+  progressoMaximo: 8
+  proximaConversa: {fileID: 0}
+  id: 57

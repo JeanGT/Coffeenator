@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Enemy
+  - Wall
+  - Lackey
+  - Projetil
+  - Projetil Inimigo
+  - Aliado
+  - FogoSpawn
+  - Porta
+  - Bug
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: "fund\xE3o"
+    uniqueID: 990837397
+    locked: 0
+  - name: fundo
+    uniqueID: 4060869963
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 4060592335
+    locked: 0
+  - name: PlayerCanvas
+    uniqueID: 2490716789
+    locked: 0
+  - name: Mobs
+    uniqueID: 4076221817
+    locked: 0
+  - name: OverPlayer
+    uniqueID: 3725554127
+    locked: 0

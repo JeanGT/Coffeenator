@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: "0 - Introdu\xE7\xE3o"
+  m_EditorClassIdentifier: 
+  falas:
+  - "H\xE1 muito tempo atr\xE1s, havia uma pequena vila no litoral de um pequeno pa\xEDs."
+  - Certo dia, alguns homens chegaram do mar e ofereceram aos habitantes um produto
+    que eles nunca tinham ouvido falar.
+  - "Essas pessoas gostaram tanto desse produto que um la\xE7o foi criado entre os
+    pa\xEDses, e a vila cresceu, tornando-se em uma cidade."
+  - "Por\xE9m, certo dia, os pa\xEDses entraram em guerra, e esse la\xE7o foi cortado."
+  - "Os cidad\xE3os de ambos os pa\xEDses, que antes eram amigos, deixaram o \xF3dio
+    tomar conta deles."
+  - "At\xE9 que o chefe da cidade, guiado por esse \xF3dio, proibiu o uso do produto,
+    sem considerar aqueles que o utilizavam."
+  - "V\xE1rios cidad\xE3os, no entanto, j\xE1 estavam viciados e parar repentinamente
+    seria algo muito dif\xEDcil para eles."
+  - "A repress\xE3o caiu sobre quem utilizava o produto, e assim a situa\xE7\xE3o
+    ficou por d\xE9cadas."
+  - "Hoje, mesmo ap\xF3s a legaliza\xE7\xE3o do uso desse produto, seus consumidores
+    sofrem tanto pelo v\xEDcio, quanto pelo tratamento que recebem."
+  - "Algum dia, espera-se que, talvez, um her\xF3i possa salvar essas pessoas de seus
+    v\xEDcios."
+  sprites:
+  - {fileID: 4864170482413515661, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 4864170482413515661, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 4864170482413515661, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 4864170482413515661, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 4864170482413515661, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 4864170482413515661, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 4864170482413515661, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 4864170482413515661, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 4864170482413515661, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 4864170482413515661, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  nomes:
+  - Liz
+  - Liz
+  - Liz
+  - Liz
+  - Liz
+  - Liz
+  - Liz
+  - Liz
+  - Liz
+  - Liz
+  velocidade: 40
+  automatico: 0
+  progressoAoTerminar: -1
+  progressoMinimo: -1
+  progressoMaximo: -1
+  proximaConversa: {fileID: 11400000, guid: 8f81616751a98b145af86a7383056d71, type: 2}
+  id: 0

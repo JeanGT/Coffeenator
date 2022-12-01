@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 30 - BobOferecerChave
+  m_EditorClassIdentifier: 
+  falas:
+  - Se eu tenho uma chave como essa? Tenho sim, mas sabe como as coisas funcionam,
+    [Nickname].
+  - "Sim, Bob, nada \xE9 de gra\xE7a... "
+  - "Exatamente! Mas n\xE3o vou te pedir dinheiro, j\xE1 que voc\xEA parece desesperado...
+    Tem algo que quero mais que dinheiro no momento.  "
+  - "Voc\xEAs sabem como eu trabalho aqui toda noite? No frio, sozinho, entediado...
+    Tudo que eu queria era o wi-fi do hotel aqui ao lado. "
+  - "Por\xE9m, o n\xEDvel de seguran\xE7a para consegu\xED-lo \xE9 absurdo. A \xFAnica
+    maneira \xE9 convencer o Epaminondas a passar a senha."
+  - "Ouvi dizer que ele investiu toda a heran\xE7a do pai dele para que apenas os
+    h\xF3spedes acessem a internet."
+  - "Tudo que eu pe\xE7o \xE9 a senha do wi-fi e, ent\xE3o, eu te dou a chave."
+  - "Ok... Combinado, eu consigo a senha e voc\xEA me d\xE1 o que eu quero."
+  - "Sabia que podia contar com voc\xEA. Boa sorte!"
+  sprites:
+  - {fileID: 21300000, guid: 2e2071cee494d694f93eb891c35a2eb6, type: 3}
+  - {fileID: 21300000, guid: ba4ad9a5c0627234cb926e5c012f5f36, type: 3}
+  - {fileID: 21300000, guid: 2e2071cee494d694f93eb891c35a2eb6, type: 3}
+  - {fileID: 21300000, guid: 2e2071cee494d694f93eb891c35a2eb6, type: 3}
+  - {fileID: 21300000, guid: 2e2071cee494d694f93eb891c35a2eb6, type: 3}
+  - {fileID: 21300000, guid: 2e2071cee494d694f93eb891c35a2eb6, type: 3}
+  - {fileID: 21300000, guid: 2e2071cee494d694f93eb891c35a2eb6, type: 3}
+  - {fileID: -1984035073591318243, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: 2e2071cee494d694f93eb891c35a2eb6, type: 3}
+  nomes:
+  - Bob
+  - '[Nickname]'
+  - Bob
+  - Bob
+  - Bob
+  - Bob
+  - Bob
+  - '[Nickname]'
+  - Bob
+  velocidade: 40
+  voltaProgresso: 0
+  automatico: 0
+  progressoAoTerminar: 14
+  progressoMinimo: 13
+  progressoMaximo: 13
+  proximaConversa: {fileID: 0}
+  id: 30

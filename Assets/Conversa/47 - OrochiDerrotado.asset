@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 47 - OrochiDerrotado
+  m_EditorClassIdentifier: 
+  falas:
+  - "\xC9 o fim para voc\xEA, Orochi... N\xE3o h\xE1 mais como escapar. Explique-se!"
+  - "Me desculpe desapont\xE1-lo, [Nickname]. Eu realmente n\xE3o queria envolv\xEA-lo
+    nessa briga entre irm\xE3os, mas eu estava fora de mim."
+  - "Voc\xEA e Caio s\xE3o... irm\xE3os? Me lembro dele ter contado sobre um tal
+    irm\xE3o viciado... N\xE3o esperava que fosse voc\xEA! Por que fez isso?"
+  - "H\xE1 muito tempo,  \xE9ramos muito pr\xF3ximos, sempre juntos e ajudando nosso
+    pais com o bar."
+  - "Desde pequeno, eu sempre exagerava no quanto de caf\xE9 consumia, mas Caio n\xE3o
+    via problema nisso."
+  - "Por\xE9m, um dia, nossos pais morreram em um acidente de carro envolvendo um
+    usu\xE1rio de caf\xE9."
+  - "O homem foi julgado inocente, pois a culpa do acidente teria sido dos nossos
+    pais. Meu irm\xE3o n\xE3o aceitou isso e acabou culpando a bebida."
+  - "Ele, que sempre me defendia antes, agora tinha avers\xE3o de mim, queria me
+    afastar, me via como um peso."
+  - "Depois de um tempo, ele me expulsou do bar, falando que eu n\xE3o era mais seu
+    irm\xE3o, que havia me perdido no caf\xE9..."
+  - "No come\xE7o, fiquei triste, at\xE9 deprimido. Mas com o tempo, a tristeza se
+    tornou em raiva. Foi ent\xE3o que decidi me vingar."
+  - "Treinei muito, mas mesmo assim n\xE3o foi o suficiente. Ent\xE3o, tive a ideia
+    de roubar todo o caf\xE9 da cidade e incrimin\xE1-lo..."
+  - Agora eu vejo que estava cego. Eu me enganei esse tempo todo... Talvez ele estivesse
+    certo em me afastar.
+  - "Por isso, eu mere\xE7o qualquer puni\xE7\xE3o... Mas, por favor, solte o Caio...
+    Solte meu irm\xE3o da pris\xE3o."
+  - "Na verdade, eu entendo a perspectiva do Caio. Mas acho que voc\xEA est\xE1 errado
+    em dizer que ele estava certo em te afastar."
+  - "Posso nunca ter passado pelo que voc\xEA passou, mas agora acho que te entendo
+    um pouco melhor."
+  - "\xC9 ir\xF4nico me chamar de detetive e n\xE3o ter notado algo que estava logo
+    embaixo do meu nariz esse tempo todo."
+  - "Sem apoio de ningu\xE9m, nem mesmo do pr\xF3prio irm\xE3o, n\xE3o \xE9 surpresa
+    que a situa\xE7\xE3o esteja assim para voc\xEA e as pessoas na cidade. As coisas
+    precisam mudar."
+  - "As coisas precisam mudar. Eu vou soltar seu irm\xE3o, mas, voc\xEA ainda precisa
+    pagar pelo seus atos."
+  - Eu irei, [Nickname]... Obrigado.
+  sprites:
+  - {fileID: 21300000, guid: 0226a26aca194b84c850fb34a11078c9, type: 3}
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: 204f8f4b74f12484baffbf1799038934, type: 3}
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: ee9895e5df68fd44aa78a553639a98ba, type: 3}
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: 1245a8f067be7694dafd5f1e33d46c11, type: 3}
+  - {fileID: 21300000, guid: ba4ad9a5c0627234cb926e5c012f5f36, type: 3}
+  - {fileID: 21300000, guid: 1245a8f067be7694dafd5f1e33d46c11, type: 3}
+  - {fileID: 21300000, guid: 1245a8f067be7694dafd5f1e33d46c11, type: 3}
+  - {fileID: 21300000, guid: 55f2cd6d426c8744699635c9a2da5bc2, type: 3}
+  - {fileID: 21300000, guid: c67eb150e6dde8741b0be61446e46bd4, type: 3}
+  nomes:
+  - '[Nickname]'
+  - Orochi
+  - '[Nickname]'
+  - Orochi
+  - Orochi
+  - Orochi
+  - Orochi
+  - Orochi
+  - Orochi
+  - Orochi
+  - Orochi
+  - Orochi
+  - Orochi
+  - '[Nickname]'
+  - '[Nickname]'
+  - '[Nickname]'
+  - '[Nickname]'
+  - '[Nickname]'
+  - Orochi
+  velocidade: 40
+  voltaProgresso: 0
+  automatico: 1
+  progressoAoTerminar: 27
+  progressoMinimo: 26
+  progressoMaximo: 26
+  proximaConversa: {fileID: 0}
+  id: 47

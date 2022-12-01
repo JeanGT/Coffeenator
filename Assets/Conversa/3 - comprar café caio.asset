@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: "3 - comprar caf\xE9 caio"
+  m_EditorClassIdentifier: 
+  falas:
+  - "Bom dia, detetive. Veio buscar o caf\xE9 para sua esposa?"
+  - "Bom dia, Caio. Sim, voc\xEA sabe como ela fica quando n\xE3o toma caf\xE9...
+    Mas eu estou tentando convenc\xEA-la de que deveria parar. "
+  - Claro, ela deveria!
+  - "O caf\xE9 \xE9 muito perigoso, acabou com a minha fam\xEDlia e afastou meu irm\xE3o
+    de mim."
+  - "Por\xE9m, ironicamente, ainda dependo dessa bebida para tentar recuperar o que
+    perdi..."
+  - O que quer dizer com isso?
+  - "Essa \xE9 uma hist\xF3ria para um outro dia, [Nickname]. Aqui est\xE1 o caf\xE9."
+  - Obrigado, Caio.
+  - "Voc\xEA \xE9 a \xFAnica pessoa que ainda vende isso, n\xE3o sei o que faria
+    sem sua ajuda."
+  - "Sem problemas, afinal, os ladr\xF5es n\xE3o s\xE3o p\xE1reos para mim! "
+  - Enfim, tenha um bom dia.
+  sprites:
+  - {fileID: 21300000, guid: 38a1f7d10360c454388cd48aa77f6b14, type: 3}
+  - {fileID: 21300000, guid: 1245a8f067be7694dafd5f1e33d46c11, type: 3}
+  - {fileID: -4942544796371320127, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: bd56c9f674a87b74d9318518ab5b08df, type: 3}
+  - {fileID: -4942544796371320127, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: ba4ad9a5c0627234cb926e5c012f5f36, type: 3}
+  - {fileID: -4942544796371320127, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: 55f2cd6d426c8744699635c9a2da5bc2, type: 3}
+  - {fileID: 21300000, guid: 55f2cd6d426c8744699635c9a2da5bc2, type: 3}
+  - {fileID: 21300000, guid: 38a1f7d10360c454388cd48aa77f6b14, type: 3}
+  - {fileID: 21300000, guid: 38a1f7d10360c454388cd48aa77f6b14, type: 3}
+  nomes:
+  - Caio
+  - '[Nickname]'
+  - Caio
+  - Caio
+  - Caio
+  - '[Nickname]'
+  - Caio
+  - '[Nickname]'
+  - '[Nickname]'
+  - Caio
+  - Caio
+  velocidade: 40
+  voltaProgresso: 0
+  automatico: 0
+  progressoAoTerminar: 2
+  progressoMinimo: -1
+  progressoMaximo: 1
+  proximaConversa: {fileID: 0}
+  id: 3

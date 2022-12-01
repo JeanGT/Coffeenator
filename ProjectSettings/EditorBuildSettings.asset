@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 217852f5565a0944090510f63b3ad6bb
+  - enabled: 1
+    path: Assets/Scenes/Casa.unity
+    guid: 038a6fd55eed36541be2d56d3503440b
+  - enabled: 1
+    path: Assets/Scenes/Mapa.unity
+    guid: 4802a8c7f30c44b49ab266550e4b239e
+  - enabled: 1
+    path: Assets/Scenes/Loja.unity
+    guid: b50596cb03d27b64aadacf0e58473b10
+  - enabled: 1
+    path: Assets/Scenes/Hospital.unity
+    guid: b3298b0c74b102846a371e03093913b2
+  - enabled: 1
+    path: Assets/Scenes/Programar.unity
+    guid: b20049bb4ed971f448829ff74cfde071
+  - enabled: 1
+    path: Assets/Scenes/Dojo.unity
+    guid: bfae08dee97ba01479bacff77c2ddb62
+  - enabled: 1
+    path: Assets/Scenes/Quarto.unity
+    guid: dfb48be214705f24196fc9aae7551642
+  - enabled: 1
+    path: Assets/Scenes/Beco.unity
+    guid: 147e365269849954f8d84cf22a958869
+  - enabled: 1
+    path: Assets/Scenes/Combate.unity
+    guid: d89199af7b2f8d8498a134a37a9a3ee8
+  - enabled: 1
+    path: Assets/Scenes/Armazem.unity
+    guid: 47b1297f6f11b284db05533de55a07be
+  - enabled: 1
+    path: Assets/Scenes/DerrotaOrochi.unity
+    guid: 1d8c1b29f1a96644f94931c7de718260
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: e428d2fac2db51b4091ff687e1973d19
+  - enabled: 1
+    path: Assets/Scenes/Introducao.unity
+    guid: 4850445a7829180469ca782a65cd03cc
+  - enabled: 1
+    path: "Assets/Scenes/OrochiTransforma\xE7\xE3o.unity"
+    guid: 55691afc60b70274db38d219ff7f38ad
+  - enabled: 1
+    path: "Assets/Scenes/Cr\xE9ditos.unity"
+    guid: 71a21526f68cb30419d9e97f32e14e33
+  m_configObjects: {}

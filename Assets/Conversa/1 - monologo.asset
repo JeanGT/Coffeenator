@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 1 - monologo
+  m_EditorClassIdentifier: 
+  falas:
+  - "Meu nome \xE9 [Nickname]. Moro em uma pequena cidade chamada Porto Cafeeiro."
+  - "Eu trabalho como detetive daqui, mas como n\xE3o h\xE1 muitos casos para resolver,
+    o que eu mais fa\xE7o \xE9 realizar servi\xE7os de programa\xE7\xE3o."
+  - "Apesar do nome, as pessoas do Porto odeiam caf\xE9, o que inclui eu."
+  - "Aparentemente, ele \xE9 uma subst\xE2ncia viciante e quem o consome sofre com
+    seu uso."
+  - "Por\xE9m, ultimamente, porque alguns roubos de caf\xE9 t\xEAm ocorrido nas lojas,
+    ningu\xE9m mais consegue compr\xE1-lo."
+  - "Ent\xE3o eu diria que o problema est\xE1 resolvido, certo?"
+  - "Com exce\xE7\xE3o de minha esposa, que esconde seu v\xEDcio, quem utiliza o
+    caf\xE9 s\xE3o apenas aqueles vagabundos que ficam o dia todo sem trabalhar."
+  - "Eu imagino o quanto a cidade vai mudar enquanto essa droga n\xE3o existir mais..."
+  sprites:
+  - {fileID: -1984035073591318243, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: -1984035073591318243, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: -1984035073591318243, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: -1984035073591318243, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: -1984035073591318243, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: -1984035073591318243, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: -1984035073591318243, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: -1984035073591318243, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  nomes:
+  - '[Nickname]'
+  - '[Nickname]'
+  - '[Nickname]'
+  - '[Nickname]'
+  - '[Nickname]'
+  - '[Nickname]'
+  - '[Nickname]'
+  - '[Nickname]'
+  velocidade: 40
+  voltaProgresso: 0
+  automatico: 0
+  progressoAoTerminar: -1
+  progressoMinimo: -1
+  progressoMaximo: -1
+  proximaConversa: {fileID: 0}
+  id: 1

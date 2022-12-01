@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 44 - ReencontroComEsposa
+  m_EditorClassIdentifier: 
+  falas:
+  - Bem-vindo de volta, querido!
+  - "Voc\xEAs voltaram? Est\xE3o feridos? Como voc\xEAs est\xE3o se sentindo? Precisam
+    de algo?"
+  - "N\xE3o, amor, est\xE1 tudo bem... Bom trabalho resolvendo o caso!"
+  - "Estou t\xE3o feliz! Achei que fosse perder voc\xEAs... Eu amo tanto voc\xEAs,
+    n\xE3o sei o que faria se algo tivesse acontecido."
+  - "Eu tamb\xE9m, querido, eu estava com tanto medo..."
+  - "N\xE3o se preocupem, prometo que agora vai ficar tudo bem! O Caio vai pagar
+    pelo que ele fez."
+  - O Cai-
+  sprites:
+  - {fileID: 4864170482413515661, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: 204f8f4b74f12484baffbf1799038934, type: 3}
+  - {fileID: 4864170482413515661, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: 55f2cd6d426c8744699635c9a2da5bc2, type: 3}
+  - {fileID: 4864170482413515661, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 21300000, guid: 55f2cd6d426c8744699635c9a2da5bc2, type: 3}
+  - {fileID: 4864170482413515661, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  nomes:
+  - Liz
+  - '[Nickname]'
+  - Liz
+  - '[Nickname]'
+  - Liz
+  - '[Nickname]'
+  - Liz
+  velocidade: 40
+  voltaProgresso: 0
+  automatico: 1
+  progressoAoTerminar: 24
+  progressoMinimo: 23
+  progressoMaximo: 23
+  proximaConversa: {fileID: 0}
+  id: 44

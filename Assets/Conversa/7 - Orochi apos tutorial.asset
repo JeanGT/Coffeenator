@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50bd66e9ea9546048b50d2fe8ebedbae, type: 3}
+  m_Name: 7 - Orochi apos tutorial
+  m_EditorClassIdentifier: 
+  falas:
+  - Hmmm, parece que me empolguei um pouco demais...
+  - "Acho que j\xE1 est\xE1 ficando tarde, era melhor que voc\xEA voltasse para casa."
+  sprites:
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  - {fileID: 7485067572198808507, guid: 1932d6987fbb6844cbe7f986749b16de, type: 3}
+  nomes:
+  - Orochi
+  - Orochi
+  velocidade: 40
+  automatico: 1
+  progressoAoTerminar: 6
+  progressoMinimo: 5
+  progressoMaximo: 5
+  proximaConversa: {fileID: 0}
+  id: 7
