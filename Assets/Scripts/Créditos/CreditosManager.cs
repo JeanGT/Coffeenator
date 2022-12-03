@@ -37,6 +37,9 @@ public class CreditosManager : MonoBehaviour
 
     void Start()
     {
+        PlayerStatus.morrer();
+        PlayerStatus.excluirSave();
+
         caixaDeSom = GameObject.Find("MusicaPlayer").GetComponent<MusicaDeFundo>();
         caixaDeSom.setBackground(musicaFinal);
         caixaDeSom.playBg();
