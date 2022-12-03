@@ -758,6 +758,11 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -0.8499985
       objectReference: {fileID: 0}
+    - target: {fileID: 2897554292984508669, guid: 4e9b9b24add476d468f7cabf84808b40,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3833014845866908933, guid: 4e9b9b24add476d468f7cabf84808b40,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -797,6 +802,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: CanvasPF
+      objectReference: {fileID: 0}
+    - target: {fileID: 7985657120114449508, guid: 4e9b9b24add476d468f7cabf84808b40,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8498975538898665732, guid: 4e9b9b24add476d468f7cabf84808b40,
         type: 3}
@@ -2442,6 +2452,31 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 646494534492982277, guid: ce68e5881a101c342a486265e760aaa5,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 646494534492982277, guid: ce68e5881a101c342a486265e760aaa5,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 646494534492982277, guid: ce68e5881a101c342a486265e760aaa5,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 646494534492982277, guid: ce68e5881a101c342a486265e760aaa5,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -22.39
+      objectReference: {fileID: 0}
+    - target: {fileID: 646494534492982278, guid: ce68e5881a101c342a486265e760aaa5,
+        type: 3}
+      propertyPath: m_Text
+      value: "Por \xFAltimo, utilize as teclas 'A' e 'D' para se movimentar."
+      objectReference: {fileID: 0}
     - target: {fileID: 646494534514070880, guid: ce68e5881a101c342a486265e760aaa5,
         type: 3}
       propertyPath: m_Pivot.x
@@ -2551,6 +2586,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: CanvasTutorial
+      objectReference: {fileID: 0}
+    - target: {fileID: 646494534972099505, guid: ce68e5881a101c342a486265e760aaa5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ce68e5881a101c342a486265e760aaa5, type: 3}

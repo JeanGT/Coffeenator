@@ -35,11 +35,11 @@ public static class PlayerStatus {
     private static float velocidade = 1;
     private static float vida = 1;
     private static float velocidadeAtaque = 1;
-    private static float dano = 1.2f; //1.2f
+    private static float dano = 1.2f; //default: 1.2f
 
     private static bool[] inteligencia = new bool[10];
     private static ArrayList objetivos = new ArrayList();
-    private static int progresso = -1;
+    private static int progresso = -1; // default: -1
 
     private static float dinheiros;
     private static float dinheirosAreceber;
