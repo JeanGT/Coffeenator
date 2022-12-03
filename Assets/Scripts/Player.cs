@@ -11,6 +11,8 @@ public class Player : MonoBehaviour {
     public float maxX;
     public AudioSource passos;
 
+    private MyButton botaoAndarD;
+    private MyButton botaoAndarE;
     private Transform msgInteracao;
     private bool isFreezed = false;
     private Animator animator;
@@ -24,6 +26,8 @@ public class Player : MonoBehaviour {
         msgInteracao = GameObject.Find("txtInteracao").transform;
         msgInteracao.gameObject.SetActive(false);
         animator = transform.Find("sprites").GetComponent<Animator>();
+        botaoAndarD = GameObject.Find("BotaoDeAndarDireita").GetComponent<MyButton>();
+        botaoAndarE = GameObject.Find("BotaoDeAndarEsquerda").GetComponent<MyButton>();
         btnInteracao = GameObject.Find("BotaoInteracao").GetComponent<Button>();
         btnInteracao.interactable = false;
         initialXScale = animator.transform.localScale.x;
@@ -49,6 +53,12 @@ public class Player : MonoBehaviour {
     public void setFreeze(bool freeze) {
         this.isFreezed = freeze;
 
+        botaoAndarD.buttonPressed = false;
+        botaoAndarE.buttonPressed = false;
+
+        botaoAndarD.gameObject.SetActive(!freeze);
+        botaoAndarE.gameObject.SetActive(!freeze);
+
         animator.SetBool("movendo", false);
         passos.Pause();
     }
@@ -62,7 +72,13 @@ public class Player : MonoBehaviour {
     {
         float axisHorizontalMove = 0;
         axisHorizontalMove = MyInput.getHorizontalAxis();
-        
+
+        if (botaoAndarD.buttonPressed)
+            axisHorizontalMove = 1;
+
+        if (botaoAndarE.buttonPressed)
+            axisHorizontalMove = -1;
+
         transform.position += new Vector3(axisHorizontalMove * Time.fixedDeltaTime * velocidade, 0, 0);
 
         if (axisHorizontalMove == 0)

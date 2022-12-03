@@ -181,7 +181,9 @@ public class PlayerCombate : Individuo {
                 sp2.transform.localScale = new Vector3(-initXScale, sp2.transform.localScale.y, sp2.transform.localScale.z);
             }
 
-            movement = new Vector2(MyInput.getHorizontalAxis(), MyInput.getVerticalAxis()); //wasd
+
+            movement = joystick.Direction; //joystick 
+            //movement = new Vector2(MyInput.getHorizontalAxis(), MyInput.getVerticalAxis()); //wasd
 
             if (cCooldownDash < cooldownDash) {
                 float mult = 1;

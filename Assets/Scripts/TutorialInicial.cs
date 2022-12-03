@@ -42,9 +42,7 @@ public class TutorialInicial : MonoBehaviour
         if (progressoTutorial < dicas.Length)
         {
             avancarBtn.SetActive(false);
-            if(dicas[progressoTutorial] != null){
-                dicas[progressoTutorial].SetActive(true);
-            }
+            dicas[progressoTutorial].SetActive(true);
 
             StartCoroutine(esperarProximaDica());
         }
