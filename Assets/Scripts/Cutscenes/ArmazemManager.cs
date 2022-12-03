@@ -92,7 +92,7 @@ public class ArmazemManager : MonoBehaviour
                 }
 
                 primeiroFrame = false;
-                attLuzes(false);
+                attLightsIntensity(0);
             }
             cTempoTudoEscuro += Time.deltaTime;
 
@@ -107,7 +107,7 @@ public class ArmazemManager : MonoBehaviour
                     }
                 }
 
-                attLuzes(true);
+                attLightsIntensity(1);
                 caio.SetActive(true);
             }
         }
@@ -299,9 +299,9 @@ public class ArmazemManager : MonoBehaviour
         player.setFreeze(false);
     }
 
-    private void attLuzes(bool estado) {
+    private void attLightsIntensity(float newIntensity) {
         foreach(GameObject l in luzes) {
-            l.GetComponent<UnityEngine.Rendering.Universal.Light2D>().enabled = estado;
+            l.GetComponent<UnityEngine.Rendering.Universal.Light2D>().intensity = newIntensity;
         }
     }
 
