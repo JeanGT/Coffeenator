@@ -29,10 +29,7 @@ public class Interruptor : Interacao
 
     public override void interagir() {
         setOn(!on);
-        string aux = tituloInteracao;
-        tituloInteracao = tituloApagar;
-        tituloApagar = aux;
-
+        
         if (on)
         {
             GameObject.Find("MusicaPlayer").GetComponent<MusicaDeFundo>().playSound(62);
@@ -52,6 +49,10 @@ public class Interruptor : Interacao
     private void setOn(bool on) {
         this.on = on;
         attLights();
+
+        string aux = tituloInteracao;
+        tituloInteracao = tituloApagar;
+        tituloApagar = aux;
     }
 
     public void attLights() {
