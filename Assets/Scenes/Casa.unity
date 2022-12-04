@@ -2242,7 +2242,7 @@ MonoBehaviour:
   salvar: 0
   playerX: -1
   precisaAvisoMendigo: 0
-  superUmaVez: 0
+  superUmaVez: 1
   playerOlhandoEsquerda: 0
 --- !u!1001 &2041033690
 PrefabInstance:
