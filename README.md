@@ -4,7 +4,7 @@
   <img src="https://github.com/JeanGT/coffeenator/blob/master/Gameplay%20GIFs/title.gif" width="60%"/>
 </p>
 
-## About
+## About 
 Coffeenator is an adventure RPG game where you play as a detective who hates coffee and refuses to try to solve the case of its disappearance. But an unexpected event ends up changing everything.  
 
 The game talks about the stigma around drug users.  
@@ -12,7 +12,7 @@ The game talks about the stigma around drug users.
 Checkout more informations in the [monography](https://github.com/JeanGT/coffeenator/blob/master/monography.pdf) about the game.  
 Don't forget to rate us at [Play Store](https://play.google.com/store/apps/details?id=com.TGRoom.Coffeenator) :smile:.  
 
-## Downloads
+## Downloads <img src="https://github.com/JeanGT/coffeenator/blob/master/Gameplay%20GIFs/mug_smoke.gif" width="3%"/>
 Currently, the game is **only available in brazilian portuguese**.  
 - [Android](https://play.google.com/store/apps/details?id=com.TGRoom.Coffeenator)
 - [Windows](https://drive.google.com/file/d/10HxG4Jg2z-sepuMq8APAk_r5ZMpNZQPz/view?usp=share_link)
